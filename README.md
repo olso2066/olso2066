@@ -1,5 +1,7 @@
 ## Hi there 🌱
 
+I'm an evolutionary biologist at Augustana University in South Dakota. I research and teach at the intersection of genetics, evolution, and bioinformatics
+
 <!--
 **olso2066/olso2066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
